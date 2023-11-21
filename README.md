@@ -1,7 +1,7 @@
 # Matrix Multiplication Optimization for Deep Learning
 Applying various optimization techniques for matrix multiplication in the context of Convolutional Neural Networks.
 ## Authors : 
-Haneche Abderahim & 
+Haneche Abderrahim & 
 Amrouche Faouzi .B
 
 ## Context :
